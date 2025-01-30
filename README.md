@@ -1,6 +1,10 @@
 # 小井土 大 研究業績ウェブサイト
 
-> ⚠️ **注意**: このウェブサイトはCursor COMPOSERを使用した試験的な実装であり、一時的な公開となります。
+[![Made with Cursor](https://img.shields.io/badge/Made%20with-Cursor-blue.svg)](https://cursor.sh/)
+
+> ### ⚠️ 試験的実装について
+> このウェブサイトは[Cursor](https://cursor.sh/)のCOMPOSER機能を使用して作成された**試験的な実装**です。
+> 一時的な公開となりますのでご注意ください。
 
 東京大学 大学院新領域創成科学研究科 メディカル情報生命専攻 助教の研究業績をまとめたウェブサイトです。
 
